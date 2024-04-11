@@ -1,0 +1,27 @@
+.card{
+    padding: 10px;
+    margin: 5px;
+    background-color: rgb(217, 217, 98);
+    border-radius: 8px;
+}
+
+.description-box{
+    background-color: skyblue;
+    padding: 20px;
+    width: 200px;
+    height: 320px;
+    overflow: hidden;
+    border-radius: 7px 7px 2px 2px;
+    position: relative;
+}
+
+.title{
+    text-align: center;
+}
+ 
+.price-box{
+    text-align: center;
+    background-color: rgb(217, 217, 98);
+    font-size: larger;
+    border-radius: 14px;
+}
